@@ -8,5 +8,7 @@ namespace ACM.BL
 {
     class Order
     {
+        public int OrderId { get; private set; }
+
     }
 }
